@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leijean" alt="leijean" /></a> </p>
 
-- 🔭 I’m currently working on **School Projects**
+- 🔭 I’m currently working on **School Project and Assignments**
 
 - 🌱 I’m currently learning **Java, Python, C++, and more...**
 
-- 👯 I’m looking to collaborate on **Mobile Gaming/ Mobile APKT**
+- 👯 I’m looking to collaborate on **Mobile Gaming**
 
-- 🤝 I’m looking for help with **Game Design**
+- 🤝 I’m looking for help with **Game Design/Game Development**
 
 - 💬 Ask me about **Android**
 
