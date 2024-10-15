@@ -1,7 +1,10 @@
-[![MasterHead]()]
+[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](leijean.io)
 <h1 align="center">Hi 👋, I'm Francisco J. Camacho Lotti</h1>
 <h3 align="center">I am currently a Software Engineer student</h3>
-<img align=“right” alt="Coding” width="400" src=["[https://static.vecteezy.com/system/resources/thumbnails/022/328/336/original/isometric-desktop-computer-coding-programming-technology-programming-concept-technology-animation-transparent-background-with-alpha-channel-free-video.jpg”](https://cdn.vectorstock.com/i/1000v/07/19/software-development-programming-coding-vector-29570719.jpg]">](https://cdn.vectorstock.com/i/1000v/07/19/software-development-programming-coding-vector-29570719.jpg)>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leijean&label=Profile%20views&color=0e75b6&style=flat" alt="leijean" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leijean" alt="leijean" /></a> </p>
 
 - 🔭 I’m currently working on **School Projects**
 
@@ -27,3 +30,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/If you are interested in a collaboration."> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="If you are interested in a collaboration." /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leijean&show_icons=true&locale=en&layout=compact" alt="leijean" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leijean&" alt="leijean" /></p>
