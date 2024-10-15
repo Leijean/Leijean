@@ -1,7 +1,8 @@
 [![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](leijean.io)
 <h1 align="center">Hi 👋, I'm Francisco J. Camacho Lotti</h1>
 <h3 align="center">I am currently a Software Engineer student</h3>
-<img align="right" width="400" src="(https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif)">
+<img align="right" width="400" src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leijean&label=Profile%20views&color=0e75b6&style=flat" alt="leijean" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leijean" alt="leijean" /></a> </p>
